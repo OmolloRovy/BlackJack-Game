@@ -6,7 +6,7 @@ const playerEl = document.getElementById("player-el");
 const player = {
   name: "Vanistelrooy"
 };
-.........
+........
 let cards = [];
 let sum = 0;
 let hasBlackJack = false;
